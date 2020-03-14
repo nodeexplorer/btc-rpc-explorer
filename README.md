@@ -1,4 +1,4 @@
-# BTC RPC Explorer
+# XPC RPC Explorer
 
 [![npm version][npm-ver-img]][npm-ver-url] [![NPM downloads][npm-dl-img]][npm-dl-url]
 
